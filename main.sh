@@ -1,1 +1,1 @@
-python3 welcome.py
+python3 welcome.py  > log.txt
