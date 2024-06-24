@@ -1,1 +1,1 @@
-python welcome.py
+python3 welcome.py
